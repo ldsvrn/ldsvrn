@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🌱 I’m currently learning network security!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ldsvrn&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ldsvrn/ldsvrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
