@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning network security!
 
-I also have a GitLab where I upload my dotfiles: https://gitlab.com/louis6464
+I also have a GitLab where I upload my dotfiles: https://gitlab.com/louis6464/dotfiles
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ldsvrn&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
