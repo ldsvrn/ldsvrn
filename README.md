@@ -1,7 +1,8 @@
 ### Hi there 👋
 - 🌱 I’m currently learning network security!
+- 🔭 I’m currently working on writing a good and usable awesomewm config.
 
-I also have a GitLab where I upload my dotfiles: https://gitlab.com/louis6464/dotfiles
+I also have a GitLab where I upload my dotfiles (may or may not got back to GitHub): https://gitlab.com/louis6464/dotfiles
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ldsvrn&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
