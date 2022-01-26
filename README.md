@@ -1,6 +1,5 @@
 ### Hi there 👋
 - 🌱 I’m currently learning network security!
-- 🔭 I’m currently working on writing a good and usable awesomewm config.
 
 I also have a GitLab where I upload my dotfiles (may or may not go back to GitHub): https://gitlab.com/louis6464/dotfiles
 
@@ -10,6 +9,8 @@ I also have a GitLab where I upload my dotfiles (may or may not go back to GitHu
 **ldsvrn/ldsvrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+- 🔭 I’m currently working on writing a good and usable awesomewm config.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
