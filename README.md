@@ -1,6 +1,5 @@
-### Hi there 👋
-- 🌱 I’m currently learning network security!
-
+# Hi there 👋
+i use arch btw
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ldsvrn&theme=gruvbox&show_icons=true)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ldsvrn&show_icons=true&theme=gruvbox)
 
