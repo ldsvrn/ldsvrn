@@ -1,5 +1,7 @@
 ### Hi there 👋
-i use arch btw.
+i use arch btw...
+
+my ~~stolen~~ dotfiles are hosted at ldsvrn/dotfiles
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ldsvrn&theme=gruvbox&show_icons=true)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ldsvrn&show_icons=true&theme=gruvbox)
